@@ -17,7 +17,7 @@ Paste both of the address so they can be pre-funded without the 0x since the ter
 ### 4) Once back to the main menu, export the files with the following steps.
 2 for Manage existing genesis -> 2 Export genesis configurations -> Save file(s) in current folder
 # Include the screenshot(s) within the README.md file *** SCREENSHOT HERE
-(.C:\Users\Yonathan\Desktop\FinTech\PoA_Blockchain_HW\Screenshots\Screenshot(129).png?raw=true)
+
 
 ### 5) With the genesis block made, initialize the nodes by using geth with these commands.
 For Node 1:
