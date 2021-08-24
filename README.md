@@ -16,8 +16,8 @@ Paste both of the address so they can be pre-funded without the 0x since the ter
 
 ### 4) Once back to the main menu, export the files with the following steps.
 2 for Manage existing genesis -> 2 Export genesis configurations -> Save file(s) in current folder
-# Include the screenshot(s) within the README.md file *** SCREENSHOT HERE
-
+![Screenshot (129) - Copy](https://user-images.githubusercontent.com/68878624/130690312-f972aeb6-2a46-4c1a-b8e1-7304d7effcd6.png)
+![Screenshot (130)](https://user-images.githubusercontent.com/68878624/130690494-228d0f29-25b5-4496-b9e0-83aec1b8d6b2.png)
 
 ### 5) With the genesis block made, initialize the nodes by using geth with these commands.
 For Node 1:
@@ -43,8 +43,8 @@ Have the keystore file from the keystore folder within a node available on MyCry
 Send a transaction from the available account
 
 Get the transaction hash & find the status within the "TX Status" part of MyCrypto
-# Include the screenshot(s) within the README.md file *** SCREENSHOT HERE
-
+![Transaction_metadata_on_MyCrypto](https://user-images.githubusercontent.com/68878624/130690573-53da085b-4a61-4aea-9375-45bde742ef44.png)
+![tx_from_node_POV](https://user-images.githubusercontent.com/68878624/130690624-0a4553c4-7dd8-49a9-9f1e-0353e8aadb97.png)
 
 ### The nodes will be reactivated & unlocked with the following command(s):
 For Node 1: 
