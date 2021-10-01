@@ -1,4 +1,4 @@
-# PoA_Blockchain_HW Instructions 
+# PoA_Blockchain Guide
 
 ## In order to start the network, the following must be done for a Proof of Authority Blockchain:
 
